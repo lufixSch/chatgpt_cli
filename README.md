@@ -16,7 +16,7 @@ You need to provide an API Key with `chatgpt --api-key <YOUR API KEY>` or add it
                       The maximum number of tokens to generate in the response (Default: 1024))
 --temperature TEMPERATURE
                       The temperature to use for sampling from the GPT model (Default: 0.7))
---api-key API_KEY     The OpenAI API key to use (Default: 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)
+--api-key API_KEY     The OpenAI API key to use (Default: None)
 --system-message SYSTEM_MESSAGE
                       The message added to the Chat before the first message (Default: You are ChatGPT, a large language model trained by OpenAI. Carefully heed the user's instructions.)
 ```
