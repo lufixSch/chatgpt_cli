@@ -3,7 +3,7 @@ name = "gpt-cli"
 version = "1.0.0"
 description = "Unofficial command line interface for the use of ChatGPT"
 authors = ["LufixSch"]
-license = "GPL v3"
+license = "GNU General Public License v3.0"
 readme = "README.md"
 packages = [{include = "gpt_cli"}]
 
